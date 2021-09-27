@@ -1,2 +1,2 @@
 # Desafio Git
--[x] Criação de repositório no GitHub 
+- [x] Criação de repositório no GitHub 
